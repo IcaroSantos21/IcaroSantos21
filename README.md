@@ -25,8 +25,6 @@ Atualmente, meu objetivo é evoluir como **desenvolvedor júnior**, criando proj
 ![GitHub followers](https://img.shields.io/github/followers/IcaroSantos21?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/IcaroSantos21/IcaroSantos21?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSantos21&layout=compact)
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
