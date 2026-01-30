@@ -16,6 +16,19 @@ Atualmente, meu objetivo é evoluir como **desenvolvedor júnior**, criando proj
 
 ---
 
+** 🧩 Badges e Visuais **
+![Python](https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-yellow?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/Git-Versionamento-orange?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-Ambiente-lightgrey?style=flat-square&logo=linux)
+
+![GitHub followers](https://img.shields.io/github/followers/IcaroSantos21?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/IcaroSantos21/IcaroSantos21?style=flat-square)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSantos21&layout=compact)
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 **Linguagens**
