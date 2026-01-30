@@ -16,7 +16,7 @@ Atualmente, meu objetivo é evoluir como **desenvolvedor júnior**, criando proj
 
 ---
 
-** 🧩 Badges e Visuais **
+## 🧩 Badges e Visuais
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-yellow?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-Versionamento-orange?style=flat-square&logo=git)
