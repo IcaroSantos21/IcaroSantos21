@@ -104,18 +104,7 @@ Projeto desenvolvido durante o programa DevLinks da Rocketseat. Uma página pess
 ---
  
 ## 📊 GitHub Stats
- 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IcaroSantos21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSantos21&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IcaroSantos21&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
- 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=IcaroSantos21&theme=tokyonight&hide_border=true"/>
 </div>
