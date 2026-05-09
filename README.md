@@ -40,6 +40,17 @@ Acredito em código limpo, boas práticas de arquitetura e aprendizado contínuo
 ---
  
 ## 📂 Projetos em Destaque
+
+### 🏫 [Teacher-Prog](https://github.com/IcaroSantos21/Teacher-Prog)
+> Assistente de ensino inteligente integrado com IA local (Ollama/Llama 3)
+ 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Ollama](https://img.shields.io/badge/Ollama-Llama3-white?style=flat-square&logo=ollama)
+![Dotenv](https://img.shields.io/badge/Config-Dotenv-ecd53f?style=flat-square)
+ 
+Um projeto focado em educação assistida por IA, que utiliza o modelo Llama 3 via Ollama para responder dúvidas de programação. O sistema é configurado via variáveis de ambiente, possui tratamento de histórico de conversas e uma interface CLI intuitiva para interação em tempo real.
+ 
+---
  
 ### 🗂️ [task-manager-api](https://github.com/IcaroSantos21/task-manager-api)
 > REST API para gerenciamento de tarefas com controle de status
