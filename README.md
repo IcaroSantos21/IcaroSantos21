@@ -118,4 +118,5 @@ Projeto desenvolvido durante o programa DevLinks da Rocketseat. Uma página pess
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=IcaroSantos21&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IcaroSantos21&layout=compact&theme=tokyonight&title_color=e94560&hide_border=true" alt="Linguagens do Icaro" />
 </div>
