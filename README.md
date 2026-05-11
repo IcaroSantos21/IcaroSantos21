@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Icaro%20Santos&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Back-end%20Developer&descAlignY=58&descSize=20&descColor=a8b2d8" width="100%"/>
-<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=200&section=header&text=Icaro%20Santos&fontSize=70&fontColor=e94560" width="100%"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarorod21/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IcaroSantos21)
