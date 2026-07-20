@@ -1,117 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=200&section=header&text=Icaro%20Santos&fontSize=70&fontColor=e94560" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94560&height=180&section=header&text=Icaro%20Santos&fontSize=52&fontColor=ffffff" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarorod21/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IcaroSantos21)
- 
+# 👋 Olá, eu sou o Icaro Santos
+
+### Desenvolvedor Back-end em formação | Java • Spring Boot • Python • Docker
+
+📍 Embu das Artes - SP • 🎓 ADS (3º semestre) • 🚀 Em busca de estágio/vaga júnior Back-end
+
+<a href="https://www.linkedin.com/in/icarorod21/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/IcaroSantos21">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 
 ---
- 
-## 👨‍💻 Sobre mim
- 
-Desenvolvedor **Back-end** em formação, apaixonado por construir sistemas robustos, APIs bem estruturadas e soluções que fazem sentido na prática. Tenho explorado diferentes linguagens e paradigmas — de **Java** com Spring Boot a **Python** com FastAPI, passando por **Rust** e automação de processos.
- 
-Acredito em código limpo, boas práticas de arquitetura e aprendizado contínuo. Cada projeto aqui é um passo na jornada. 🚀
- 
+
+## 💡 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho focado meus estudos em **desenvolvimento back-end com Java e Spring Boot**.
+
+Gosto de construir **APIs REST bem estruturadas**, aplicar **boas práticas de arquitetura em camadas**, trabalhar com **bancos de dados relacionais** e utilizar **Docker** para facilitar o ambiente de desenvolvimento.
+
+Também exploro **Python com FastAPI** para automações e serviços leves, além de estudar **arquitetura de software, testes e versionamento com Git Flow**.
+
 ---
- 
-## 🛠️ Tecnologias & Ferramentas
- 
+
+## 🛠️ Stack principal
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- 
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,rust" />
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+### DevOps & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,maven,git,linux" />
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
 </div>
 
 ---
- 
-## 📂 Projetos em Destaque
 
-### 🏫 [Teacher-Prog](https://github.com/IcaroSantos21/Teacher-Prog)
-> Assistente de ensino inteligente integrado com IA local (Ollama/Llama 3)
- 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Ollama](https://img.shields.io/badge/Ollama-Llama3-white?style=flat-square&logo=ollama)
-![Dotenv](https://img.shields.io/badge/Config-Dotenv-ecd53f?style=flat-square)
- 
-Um projeto focado em educação assistida por IA, que utiliza o modelo Llama 3 via Ollama para responder dúvidas de programação. O sistema é configurado via variáveis de ambiente, possui tratamento de histórico de conversas e uma interface CLI intuitiva para interação em tempo real.
- 
+## 🚀 Projetos em destaque
+
+### 🗂️ Task Manager API
+
+**API REST para gerenciamento de tarefas**
+
+🔹 Arquitetura em camadas (Controller → Service → Repository)
+
+🔹 Filtro por status (`PENDING`, `IN_PROGRESS`, `COMPLETED`)
+
+🔹 Tratamento global de exceções
+
+🔹 Docker + MySQL + interface web integrada
+
+🔹 Desenvolvimento com **Git Flow**
+
+🔗 **Repositório:** https://github.com/IcaroSantos21/task-manager-api
+
 ---
- 
-### 🗂️ [task-manager-api](https://github.com/IcaroSantos21/task-manager-api)
-> REST API para gerenciamento de tarefas com controle de status
- 
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-green?style=flat-square&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-yes-2496ED?style=flat-square&logo=docker)
- 
-API RESTful completa com arquitetura em camadas (Controller → Service → Repository), filtro por status (`PENDING`, `IN_PROGRESS`, `COMPLETED`), tratamento global de erros, interface web integrada e containerização com Docker. Desenvolvida seguindo Git Flow com branches por funcionalidade.
- 
+
+### 🏫 Teacher-Prog
+
+**Assistente de ensino com IA local (Ollama + Llama 3)**
+
+🔹 Integração com modelo local via Ollama
+
+🔹 Histórico de conversas e configuração por `.env`
+
+🔹 Interface CLI para interação em tempo real
+
+🔹 Foco em apoio ao ensino de programação
+
+🔗 **Repositório:** https://github.com/IcaroSantos21/Teacher-Prog
+
 ---
- 
-### 🐍 [api-python-produtos](https://github.com/IcaroSantos21/api-python-produtos)
-> API de gerenciamento de produtos com FastAPI
- 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-latest-teal?style=flat-square&logo=fastapi)
-![SQLite](https://img.shields.io/badge/SQLite-yes-003B57?style=flat-square&logo=sqlite)
- 
-Primeira API em Python construída com FastAPI, com arquitetura REST e separação em camadas: controllers, services, repositories, models e schemas. CRUD completo de produtos com banco SQLite.
- 
+
+### 🐍 API Python Produtos
+
+**CRUD de produtos com FastAPI**
+
+🔹 Estrutura em camadas (`controllers`, `services`, `repositories`)
+
+🔹 Validação com Pydantic
+
+🔹 Persistência com SQLite
+
+🔹 Documentação automática via Swagger/OpenAPI
+
+🔗 **Repositório:** https://github.com/IcaroSantos21/api-python-produtos
+
 ---
- 
-### 🤖 [python-web-ui-automation](https://github.com/IcaroSantos21/python-web-ui-automation)
-> Automação de interface web com Python
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
- 
-Automação end-to-end que realiza login automático, leitura de base de dados CSV e preenchimento de formulários em sistemas web. Foco em automação de tarefas repetitivas com código organizado e orientado a fluxo.
- 
----
- 
-### 🔐 [cli-generator-password](https://github.com/IcaroSantos21/cli-generator-password)
-> Gerador de senhas automático via CLI
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven)
- 
-Ferramenta de linha de comando desenvolvida em Java para geração automática de senhas. Projeto construído com Maven e empacotado como executável.
- 
----
- 
-### 🦀 [guessing_game](https://github.com/IcaroSantos21/guessing_game)
-> Jogo de adivinhação em Rust
- 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
- 
-Projeto de aprendizado em Rust baseado no capítulo 2 do livro oficial "The Rust Programming Language". Cobre mutabilidade, entrada de usuário, crates externas (`rand`), fluxo de controle e tratamento de erros com `Result`.
- 
----
- 
-### 🔗 [Projeto-DevLinks](https://github.com/IcaroSantos21/Projeto-DevLinks)
-> Agregador de links — cartão de visitas online
- 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
-Projeto desenvolvido durante o programa DevLinks da Rocketseat. Uma página pessoal de links com dark/light mode, desenvolvida com HTML, CSS e JavaScript puro.
- 
+
+## 📚 Atualmente estudando
+
+* ☕ **Java 21 e Spring Boot 3**
+* 🧪 Testes unitários (JUnit e Mockito)
+* 🐳 Docker e containers
+* 🏗️ Arquitetura de software e padrões de projeto
+* 🗄️ Modelagem de banco de dados e SQL avançado
+
 ---
  
 ## 📊 GitHub Stats
