@@ -71,6 +71,26 @@ Também exploro **Python com FastAPI** para automações e serviços leves, alé
 
 ---
 
+### 👨‍💼 Developer Registration API
+
+**API REST para cadastro e gerenciamento de desenvolvedores**
+
+🔹 Spring Boot 3 + Java 21
+
+🔹 Arquitetura em camadas (Controller → Service → Repository)
+
+🔹 Regras de negócio para desenvolvedores **CLT e PJ**
+
+🔹 Validação de dados e tratamento global de exceções
+
+🔹 Persistência com **MySQL** e suporte a **Docker**
+
+🔹 Documentação da API com **Swagger/OpenAPI**
+
+🔗 **Repositório:** https://github.com/IcaroSantos21/developer-registration-api
+
+---
+
 ### 🏫 Teacher-Prog
 
 **Assistente de ensino com IA local (Ollama + Llama 3)**
