@@ -5,7 +5,7 @@
 
 ### Desenvolvedor Back-end em formação | Java • Spring Boot • Python • Docker
 
-📍 Embu das Artes - SP • 🎓 ADS (3º semestre) • 🚀 Em busca de estágio/vaga júnior Back-end
+📍 Embu das Artes - SP • 🎓 ADS (4º semestre) • 🚀 Em busca de estágio/vaga júnior Back-end
 
 <a href="https://www.linkedin.com/in/icarorod21/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
