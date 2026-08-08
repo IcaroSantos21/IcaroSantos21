@@ -91,19 +91,21 @@ Também exploro **Python com FastAPI** para automações e serviços leves, alé
 
 ---
 
-### 🏫 Teacher-Prog
+### 🎙️ Budgeting API
 
-**Assistente de ensino com IA local (Ollama + Llama 3)**
+**Assistente financeiro pessoal por voz, com Spring AI + Google GenAI**
 
-🔹 Integração com modelo local via Ollama
+🔹 Transcrição de áudio, function calling e text-to-speech (Gemini)
 
-🔹 Histórico de conversas e configuração por `.env`
+🔹 Arquitetura em camadas (domain, application, infrastructure)
 
-🔹 Interface CLI para interação em tempo real
+🔹 Validação de domínio seguindo princípios de DDD
 
-🔹 Foco em apoio ao ensino de programação
+🔹 Testes automatizados (JUnit + Mockito) com CI via GitHub Actions
 
-🔗 **Repositório:** https://github.com/IcaroSantos21/Teacher-Prog
+🔹 Persistência com **MySQL** e suporte a **Docker**
+
+🔗 **Repositório:** https://github.com/IcaroSantos21/Budgeting-API
 
 ---
 
